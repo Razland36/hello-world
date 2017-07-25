@@ -4,4 +4,4 @@ First repository
 
 Hello All
 
-Im a beginner just starting out and tring to learn alot!
+Im a beginner just starting out and trying to learn alot!
